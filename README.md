@@ -9,7 +9,8 @@ You can search for the file code that you want to read and learn without having 
 
 <div align="center">
 src/pocketmine/network
-  [Text Link](https://github.com/DanzzuPMP/PMMP-Sources/tree/main/src/pocketmine/network "Here!")
+  [Lihat Network Codes](./src/pocketmine/network/)
+[Baca README](./README.md)
 </div>
 
 #### Thanks you for read my repository :)
