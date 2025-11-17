@@ -9,8 +9,8 @@ You can search for the file code that you want to read and learn without having 
 
 <div align="center">
 src/pocketmine/network
-  [Lihat Network Codes](./src/pocketmine/network/)
-[Baca README](./README.md)
 </div>
 
+[Lihat Network Codes](./src/pocketmine/network/)
+[Baca README](./README.md)
 #### Thanks you for read my repository :)
